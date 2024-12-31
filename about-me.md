@@ -7,4 +7,4 @@ My name is `feenfox` aka Feen.  My fursona is still a work-in-progress but ~~ass
 
 The goal for this blog is simply to learn more about blogging and improve my writing.
 
-If you want to help buy coffee and hot sauce, here's my ko-fi: https://ko-fi.com/wildfeen
+If you want to help buy coffee and hot sauce, here's my ko-fi: https://ko-fi.com/feenfox
