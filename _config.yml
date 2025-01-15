@@ -118,14 +118,14 @@ navbar-var-length: false
 
 page-col: "#4f3226"
 text-col: "#ffffff"
-link-col: "#334693"
+link-col: "#7f7f7f"
 hover-col: "#334693"
 navbar-col: "#202c5d"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#4b81db"
 footer-col: "#202c5d"
 footer-text-col: "#ffffff"
-footer-link-col: "#4b81db"
+footer-link-col: "#7f7f7f"
 footer-hover-col: "#334693"
 
 # 334693 lightest blue
@@ -133,6 +133,7 @@ footer-hover-col: "#334693"
 # 202c5d darker blue
 # 7c5443 lighter brown
 # 4f3226 darker brown
+# 7f7f7f grey
 # ffffff white
 
 # Alternatively, the navbar, footer, and page background can be set to an image
