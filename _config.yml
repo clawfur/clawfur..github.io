@@ -118,14 +118,14 @@ navbar-var-length: false
 
 page-col: "#4f3226" # dark brown
 text-col: "#ffffff"
-link-col: "#4b81db" # brighter blue
+link-col: "#7c5443" # lighter brown
 hover-col: "#0085A1"
 navbar-col: "#7c5443" # nav bar color : slightly lighte brown?
-navbar-text-col: "#4b81db"
+navbar-text-col: "#ffffff"
 navbar-border-col: "#1a355b"
 footer-col: "#7c5443" # same as nav bar : lighter brown
-footer-text-col: "#4b81db"
-footer-link-col: "#4b81db" # brighter blue, easy on eyes
+footer-text-col: "#ffffff"
+footer-link-col: "#7c5443" # brighter blue, easy on eyes
 footer-hover-col: "#ffffff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
