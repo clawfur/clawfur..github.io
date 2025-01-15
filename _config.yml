@@ -120,10 +120,10 @@ page-col: "#4f3226" # dark brown
 text-col: "#ffffff"
 link-col: "#4b81db" # brighter blue
 hover-col: "#0085A1"
-navbar-col: "#d3b086" # nav bar color : light brown?
+navbar-col: "#7c5443" # nav bar color : slightly lighte brown?
 navbar-text-col: "#4b81db"
 navbar-border-col: "#1a355b"
-footer-col: "#d3b086" # same as nav bar : light brown
+footer-col: "#7c5443" # same as nav bar : lighter brown
 footer-text-col: "#4b81db"
 footer-link-col: "#4b81db" # brighter blue, easy on eyes
 footer-hover-col: "#ffffff"
