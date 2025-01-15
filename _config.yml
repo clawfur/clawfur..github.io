@@ -119,16 +119,17 @@ navbar-var-length: false
 page-col: "#4f3226"
 text-col: "#ffffff"
 link-col: "#4b81db"
-hover-col: "#4b81db"
-navbar-col: "#4b81db"
+hover-col: "#202c5d"
+navbar-col: "#4f3226"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#4b81db"
-footer-col: "#4b81db"
-footer-text-col: "#ffffff"
+footer-col: "#4f3226"
+footer-text-col: "#4f3226"
 footer-link-col: "#4b81db"
 footer-hover-col: "#4b81db"
 
 # 4b81db lighter blue
+# 202c5d darker blue
 # 7c5443 lighter brown
 # 4f3226 darker brown
 # ffffff white
