@@ -121,10 +121,10 @@ text-col: "#ffffff"
 link-col: "#4b81db" # brighter blue
 hover-col: "#0085A1"
 navbar-col: "#d3b086" # nav bar color : light brown?
-navbar-text-col: "#ffffff"
+navbar-text-col: "#4b81db"
 navbar-border-col: "#1a355b"
 footer-col: "#d3b086" # same as nav bar : light brown
-footer-text-col: "#ffffff"
+footer-text-col: "#4b81db"
 footer-link-col: "#4b81db" # brighter blue, easy on eyes
 footer-hover-col: "#ffffff"
 
