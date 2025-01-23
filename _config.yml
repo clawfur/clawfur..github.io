@@ -46,8 +46,8 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "contact@feenfox.com"
-  bluesky: feenfox.com
+# email: "unknown"
+  bluesky: feenfox.bsky.social
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -116,17 +116,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#4f3226"
+page-col: "#1a355b"
 text-col: "#ffffff"
-link-col: "#7f7f7f"
-hover-col: "#334693"
-navbar-col: "#202c5d"
+link-col: "#3972c3"
+hover-col: "#0085A1"
+navbar-col: "#3972c3"
 navbar-text-col: "#ffffff"
-navbar-border-col: "#4b81db"
-footer-col: "#202c5d"
+navbar-border-col: "#DDDDDD"
+footer-col: "#3972c3"
 footer-text-col: "#ffffff"
-footer-link-col: "#7f7f7f"
-footer-hover-col: "#334693"
+footer-link-col: "#3972c3"
+footer-hover-col: "#0085A1"
 
 # 334693 lightest blue
 # 4b81db lighter blue
