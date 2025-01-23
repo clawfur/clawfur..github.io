@@ -118,15 +118,15 @@ navbar-var-length: false
 
 page-col: "#1a355b"
 text-col: "#ffffff"
-link-col: "#82a4d4"
+link-col: "#DDEC09"
 hover-col: "#0085A1"
 navbar-col: "#3972c3"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#DDDDDD"
 footer-col: "#3972c3"
 footer-text-col: "#ffffff"
-footer-link-col: "#3972c3"
-footer-hover-col: "#0085A1"
+footer-link-col: "#DDEC09"
+footer-hover-col: "#DDEC09"
 
 # 334693 lightest blue
 # 4b81db lighter blue
